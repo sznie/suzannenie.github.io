@@ -1,5 +1,5 @@
 # Suzanne Nie
-[suzannenie.github.io](suzannenie.github.io)
+[suzannenie.github.io](https://suzannenie.github.io/)
 
  ## Contact
  suzannen@cs.cmu.edu
