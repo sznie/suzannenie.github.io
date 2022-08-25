@@ -74,10 +74,18 @@ main {
 }
 
 img {
-    width: 100%;
+    width: 60%;
     object-fit: scale-down;
     padding-top: 10px;
     padding-bottom: 20px;
+    -webkit-transition: width 0s, height 0s;
+    transition: width 0s, height 0s;
+}
+
+.click:hover {
+    width: 65%;
+    height: 65%;
+    cursor: pointer;
 }
 
 dt {
