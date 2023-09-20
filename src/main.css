@@ -99,3 +99,32 @@ dd {
     margin-left: 20px;
     font-size: medium;
 }
+
+.paper {
+    font-size: medium;
+    line-height: 1.2;
+    margin-bottom: 0;
+}
+
+.paper p{
+    margin-bottom: 0;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.authors {
+    color: #888;
+    font-size: small;
+}
+
+.paper-link {
+    text-decoration: none;
+}
+
+/* Style for the paper icon */
+.paper-icon::before {
+    content: "\1F4C4"; /* Unicode paper icon */
+    margin-right: 5px; /* Add some spacing between the icon and the link text */
+}
